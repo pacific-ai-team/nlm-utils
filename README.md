@@ -162,7 +162,7 @@ The code was written by the following while working at Nlmatics Corp.
 
 
 ## Pacific 
-
-1. `make build-wheel`
-2. Copy the whle to whl/ for nlm-ingestor
-3. Change nlm-ingestor to use this wheel for install
+1. Increment the version in the version file.
+2. `make build-wheel`
+3. Copy the whle to whl/ for nlm-ingestor
+4. Change nlm-ingestor to use this wheel for install
