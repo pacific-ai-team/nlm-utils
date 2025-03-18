@@ -29,7 +29,7 @@ setup(
         "nltk==3.9.1",
         "numpy==1.24.4",
         "openai",
-        "pymongo==3.11.4",
+        "pymongo==4.6.3",
         "redis==3.5.3",
         "tiktoken",
         "urllib3==1.26.17",
