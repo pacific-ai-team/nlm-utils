@@ -1,4 +1,4 @@
-aiohttp==3.8.5
+aiohttp==3.9.4
 dateparser
 dnspython==2.1.0
 word2number
