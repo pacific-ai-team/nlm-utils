@@ -159,3 +159,10 @@ The code was written by the following while working at Nlmatics Corp.
 - Ambika Sukla wrote the value parser added code and prompts for flan-t5, encoder and openai models. 
 - Tom Liu wrote yolo client and made several bug fixes.
 - Kiran Panicker wrote the location parser, search summarization prompts for openai and made several bug fixes.
+
+
+## Pacific 
+1. Increment the version in the version file.
+2. `make build-wheel`
+3. Copy the whle to whl/ for nlm-ingestor
+4. Change nlm-ingestor to use this wheel for install
